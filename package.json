@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/macacajs/app-inspector.git"
+    "url": "git://github.com/yjxj1ban/app-inspector-from-macaca.git"
   },
   "dependencies": {
     "chalk": "^1.1.3",
@@ -65,8 +65,7 @@
   "pre-commit": [
     "jshint"
   ],
-  "homepage": "https://github.com/macacajs/app-inspector",
-  "bugs": "https://github.com/macacajs/app-inspector/issues/new",
+  "homepage": "https://github.com/yjxj1ban/app-inspector-from-macaca.git",
   "license": "MIT",
   "optionalDependencies": {
     "ios-simulator": "^1.0.7",
