@@ -22,10 +22,12 @@
 ## Installation
 
 App-inspector is distibuted through npm. To install it, run the following command line:
-
+<!-- 
 ```shell
 $ npm install app-inspector -g
-```
+``` -->
+这是直接下载的源码，修改ios.js文件后，界面上的type里面，会显示当前的控件的序号。
+下载这个工程后，进入当前目录下，执行npm install -g 
 
 ## Usage
 
