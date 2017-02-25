@@ -19,6 +19,8 @@
 
 [App-inspector](https://macacajs.github.io/app-inspector/) is a mobile UI viewer in browser.
 
+这是从macaca copy过来的代码，添加了序列号，方便通过class name寻找控件。
+
 ## Installation
 在某个目录下新建一个文件夹
 
