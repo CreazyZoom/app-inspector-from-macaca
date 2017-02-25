@@ -20,29 +20,18 @@
 [App-inspector](https://macacajs.github.io/app-inspector/) is a mobile UI viewer in browser.
 
 ## Installation
-
-App-inspector is distibuted through npm. To install it, run the following command line:
-<!-- 
-```shell
-$ npm install app-inspector -g
-``` -->
-这是直接下载的源码，修改ios.js文件后，界面上的type里面，会显示当前的控件的序号。
-下载这个工程后，进入当前目录下，执行npm install -g 
+在某个目录下新建一个文件夹
+mkdir forInspector
+cd forInspector
+npm install
 
 ## Usage
 
-```shell
-$ app-inspector -u xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-```
+./bin/app-inspector -u xxxxxx --verbose
+xxxxxx: ios就是udid，android是通过adb devices获得的。
 
 ## Home Page
-
-Visit https://macacajs.github.io/app-inspector/ for more information.
-
-## Demo
-
-- [Android](http://ww4.sinaimg.cn/large/7dfcf2f7gw1f7bwlhpakwg20s40kge3k.gif)
-- [iOS](http://ww4.sinaimg.cn/large/7dfcf2f7gw1f7bwp1mgiyg20s40kg7wh.gif)
+please Visit https://macacajs.github.io/app-inspector/ for more information.
 
 ## License
 
