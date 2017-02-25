@@ -41,7 +41,7 @@ please Visit https://macacajs.github.io/app-inspector/ for more information.
 
 ## welcome to chat
 
-weixin: juan-yang2014
+weiChat: juan-yang2014
 
 ## License
 
