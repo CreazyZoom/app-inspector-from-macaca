@@ -31,6 +31,7 @@ npm install
 ## Usage
 
 ./bin/app-inspector -u xxxxxx --verbose
+
 xxxxxx: ios就是udid，android是通过adb devices获得的。
 
 ## Home Page
