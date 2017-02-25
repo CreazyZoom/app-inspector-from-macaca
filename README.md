@@ -39,6 +39,10 @@ xxxxxx: ios就是udid，android是通过adb devices获得的。
 ## Home Page
 please Visit https://macacajs.github.io/app-inspector/ for more information.
 
+## welcome to chat
+
+weixin: juan-yang2014
+
 ## License
 
 The MIT License (MIT)
