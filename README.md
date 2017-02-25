@@ -21,8 +21,11 @@
 
 ## Installation
 在某个目录下新建一个文件夹
+
 mkdir forInspector
+
 cd forInspector
+
 npm install
 
 ## Usage
